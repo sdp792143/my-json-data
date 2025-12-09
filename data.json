@@ -1,44 +1,44 @@
 [
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMA-DISP-MTRTOT",
-    "Yesterday Sales": 198371.59375,
-    "Current Sales": 198383.546875,
-    "Today Sales": 11.953125,
+    "Yesterday Sales": 198383.546875,
+    "Current Sales": 198398.234375,
+    "Today Sales": 14.6875,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMB-DISP-MTRTOT",
-    "Yesterday Sales": 143206.734375,
-    "Current Sales": 143260.34375,
-    "Today Sales": 53.609375,
+    "Yesterday Sales": 143260.34375,
+    "Current Sales": 143272.375,
+    "Today Sales": 12.03125,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-JAAMFI-D1-PR-ARMA-DISP-MTRTOT",
-    "Yesterday Sales": 359877.0625,
+    "Yesterday Sales": 359885.78125,
     "Current Sales": 359885.78125,
-    "Today Sales": 8.71875,
+    "Today Sales": 0.0,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-JAAMFI-D1-PR-ARMB-DISP-MTRTOT",
-    "Yesterday Sales": 237175.328125,
-    "Current Sales": 237202.40625,
-    "Today Sales": 27.078125,
+    "Yesterday Sales": 237202.40625,
+    "Current Sales": 237221.890625,
+    "Today Sales": 19.484375,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-JAIAMB-D1-PR-ARMA-DISP-MTRTOT",
-    "Yesterday Sales": 72126.765625,
-    "Current Sales": 72146.4140625,
-    "Today Sales": 19.6484375,
+    "Yesterday Sales": 72146.4140625,
+    "Current Sales": 72164.203125,
+    "Today Sales": 17.7890625,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-JAIAMB-D1-PR-ARMB-DISP-MTRTOT",
-    "Yesterday Sales": 374154.375,
-    "Current Sales": 374216.8125,
-    "Today Sales": 62.4375,
+    "Yesterday Sales": 374216.8125,
+    "Current Sales": 374251.78125,
+    "Today Sales": 34.96875,
     "Date": "2025-12-09"
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "Name": "CHD-CNG-MJMALO-D1-PR-ARMB-DISP-MTRTOT",
-    "Yesterday Sales": 268386.34375,
-    "Current Sales": 268428.8125,
-    "Today Sales": 42.46875,
+    "Yesterday Sales": 268428.8125,
+    "Current Sales": 268490.03125,
+    "Today Sales": 61.21875,
     "Date": "2025-12-09"
   },
   {
@@ -64,23 +64,23 @@
   },
   {
     "Name": "CHD-CNG-SAMRUD-D1-PR-ARMB-DISP-MTRTOT",
-    "Yesterday Sales": 340670.125,
-    "Current Sales": 340705.4375,
-    "Today Sales": 35.3125,
+    "Yesterday Sales": 340705.4375,
+    "Current Sales": 340751.78125,
+    "Today Sales": 46.34375,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-VMKOTI-D1-PR-ARMA-DISP-MTRTOT",
-    "Yesterday Sales": 327514.84375,
-    "Current Sales": 327552.34375,
-    "Today Sales": 37.5,
+    "Yesterday Sales": 327552.34375,
+    "Current Sales": 327583.96875,
+    "Today Sales": 31.625,
     "Date": "2025-12-09"
   },
   {
     "Name": "CHD-CNG-VMKOTI-D1-PR-ARMB-DISP-MTRTOT",
-    "Yesterday Sales": 101147.7421875,
-    "Current Sales": 101174.0390625,
-    "Today Sales": 26.296875,
+    "Yesterday Sales": 101174.0390625,
+    "Current Sales": 101179.1328125,
+    "Today Sales": 5.09375,
     "Date": "2025-12-09"
   }
 ]

@@ -2,109 +2,73 @@
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMA-DISP-MTRTOT",
     "Current Sales": 198314.671875,
-    "Current Time": "2025-12-09 11:10:49",
     "Yesterday Sales": 198314.671875,
-    "Yesterday Time": "N/A",
-    "Today Sales": 0.0,
-    "Today Time": "2025-12-09 11:10:49"
+    "Today Sales": 0.0
   },
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 143164.046875,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 143157.390625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 6.65625,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 143170.359375,
+    "Yesterday Sales": 143164.046875,
+    "Today Sales": 6.3125
   },
   {
     "Name": "CHD-CNG-JAAMFI-D1-PR-ARMA-DISP-MTRTOT",
-    "Current Sales": 359863.71875,
-    "Current Time": "2025-12-09 11:10:49",
+    "Current Sales": 359866.9375,
     "Yesterday Sales": 359863.71875,
-    "Yesterday Time": "N/A",
-    "Today Sales": 0.0,
-    "Today Time": "2025-12-09 11:10:49"
+    "Today Sales": 3.21875
   },
   {
     "Name": "CHD-CNG-JAAMFI-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 237113.15625,
-    "Current Time": "2025-12-09 11:10:49",
+    "Current Sales": 237132.796875,
     "Yesterday Sales": 237113.15625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 0.0,
-    "Today Time": "2025-12-09 11:10:49"
+    "Today Sales": 19.640625
   },
   {
     "Name": "CHD-CNG-JAIAMB-D1-PR-ARMA-DISP-MTRTOT",
-    "Current Sales": 72098.0390625,
-    "Current Time": "2025-12-09 11:10:49",
+    "Current Sales": 72100.5625,
     "Yesterday Sales": 72098.0390625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 0.0,
-    "Today Time": "2025-12-09 11:10:49"
+    "Today Sales": 2.5234375
   },
   {
     "Name": "CHD-CNG-JAIAMB-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 374065.0625,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 374055.65625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 9.40625,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 374077.5,
+    "Yesterday Sales": 374065.0625,
+    "Today Sales": 12.4375
   },
   {
     "Name": "CHD-CNG-MJMALO-D1-PR-ARMA-DISP-MTRTOT",
     "Current Sales": 39404.859375,
-    "Current Time": "2025-12-09 11:10:49",
     "Yesterday Sales": 39404.859375,
-    "Yesterday Time": "N/A",
-    "Today Sales": 0.0,
-    "Today Time": "2025-12-09 11:10:49"
+    "Today Sales": 0.0
   },
   {
     "Name": "CHD-CNG-MJMALO-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 268273.40625,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 268265.90625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 7.5,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 268286.65625,
+    "Yesterday Sales": 268273.40625,
+    "Today Sales": 13.25
   },
   {
     "Name": "CHD-CNG-SAMRUD-D1-PR-ARMA-DISP-MTRTOT",
-    "Current Sales": 69631.203125,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 69620.6953125,
-    "Yesterday Time": "N/A",
-    "Today Sales": 10.5078125,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 69639.84375,
+    "Yesterday Sales": 69631.203125,
+    "Today Sales": 8.640625
   },
   {
     "Name": "CHD-CNG-SAMRUD-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 340461.40625,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 340442.0625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 19.34375,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 340508.28125,
+    "Yesterday Sales": 340461.40625,
+    "Today Sales": 46.875
   },
   {
     "Name": "CHD-CNG-VMKOTI-D1-PR-ARMA-DISP-MTRTOT",
-    "Current Sales": 327407.375,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 327401.46875,
-    "Yesterday Time": "N/A",
-    "Today Sales": 5.90625,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 327426.46875,
+    "Yesterday Sales": 327407.375,
+    "Today Sales": 19.09375
   },
   {
     "Name": "CHD-CNG-VMKOTI-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 101111.359375,
-    "Current Time": "2025-12-09 11:10:49",
-    "Yesterday Sales": 101106.4140625,
-    "Yesterday Time": "N/A",
-    "Today Sales": 4.9453125,
-    "Today Time": "2025-12-09 11:10:49"
+    "Current Sales": 101117.1796875,
+    "Yesterday Sales": 101111.359375,
+    "Today Sales": 5.8203125
   }
 ]

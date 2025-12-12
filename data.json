@@ -5,7 +5,6 @@
     "Current Sales": 199647.046875,
     "Today Sales": 0.0,
     "Average Today": 5.484375,
-    "Total Sales Sum": 344412.1875,
     "Date": "2025-12-12"
   },
   {
@@ -14,7 +13,6 @@
     "Current Sales": 144770.625,
     "Today Sales": 5.484375,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -22,17 +20,15 @@
     "Yesterday Sales": 361680.40625,
     "Current Sales": 361680.40625,
     "Today Sales": 0.0,
-    "Average Today": 0.0,
-    "Total Sales Sum": 600700.8125,
+    "Average Today": 6.171875,
     "Date": "2025-12-12"
   },
   {
     "Name": "CHD-CNG-JAAMFI-D1-PR-ARMB-DISP-MTRTOT",
     "Yesterday Sales": 239068.28125,
-    "Current Sales": 239068.28125,
-    "Today Sales": 0.0,
+    "Current Sales": 239074.453125,
+    "Today Sales": 6.171875,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -41,7 +37,6 @@
     "Current Sales": 73008.2578125,
     "Today Sales": 0.0,
     "Average Today": 0.0,
-    "Total Sales Sum": 450469.34375,
     "Date": "2025-12-12"
   },
   {
@@ -50,7 +45,6 @@
     "Current Sales": 377507.59375,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -59,7 +53,6 @@
     "Current Sales": 39404.859375,
     "Today Sales": 0.0,
     "Average Today": 5.1875,
-    "Total Sales Sum": 310098.140625,
     "Date": "2025-12-12"
   },
   {
@@ -68,7 +61,6 @@
     "Current Sales": 270713.0625,
     "Today Sales": 5.1875,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -77,7 +69,6 @@
     "Current Sales": 70281.2890625,
     "Today Sales": 0.0,
     "Average Today": 0.0,
-    "Total Sales Sum": 414486.7265625,
     "Date": "2025-12-12"
   },
   {
@@ -86,16 +77,14 @@
     "Current Sales": 344205.4375,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
     "Name": "CHD-CNG-VMKOTI-D1-PR-ARMA-DISP-MTRTOT",
     "Yesterday Sales": 329758.21875,
-    "Current Sales": 329759.875,
-    "Today Sales": 1.65625,
-    "Average Today": 7.1796875,
-    "Total Sales Sum": 431790.34375,
+    "Current Sales": 329764.5625,
+    "Today Sales": 6.34375,
+    "Average Today": 11.8671875,
     "Date": "2025-12-12"
   },
   {
@@ -104,7 +93,6 @@
     "Current Sales": 102039.25,
     "Today Sales": 5.5234375,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -113,7 +101,6 @@
     "Current Sales": 0.0,
     "Today Sales": 0.0,
     "Average Today": 0.0,
-    "Total Sales Sum": 412041.84375,
     "Date": "2025-12-12"
   },
   {
@@ -122,7 +109,6 @@
     "Current Sales": 0.0,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -131,7 +117,6 @@
     "Current Sales": 190406.296875,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -140,7 +125,6 @@
     "Current Sales": 221645.96875,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -149,7 +133,6 @@
     "Current Sales": 0.0,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   },
   {
@@ -158,7 +141,6 @@
     "Current Sales": 0.0,
     "Today Sales": 0.0,
     "Average Today": "",
-    "Total Sales Sum": "",
     "Date": "2025-12-12"
   }
 ]

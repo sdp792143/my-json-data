@@ -1,12 +1,12 @@
 [
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMA-DISP-MTRTOT",
-    "Current Sales": 199696.234375,
+    "Current Sales": 199704.15625,
     "Yesterday Sales": 0,
-    "Today Sales": 199696.234375,
+    "Today Sales": 199704.15625,
     "CleanName": "CHD-CNG-GPOINT",
     "Date": "2025-12-12",
-    "Total Sales Sum": 344510.78125
+    "Total Sales Sum": 344518.703125
   },
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMB-DISP-MTRTOT",
@@ -60,13 +60,13 @@
     "Today Sales": 39404.859375,
     "CleanName": "CHD-CNG-MJMALO",
     "Date": "2025-12-12",
-    "Total Sales Sum": 310165.859375
+    "Total Sales Sum": 310173.015625
   },
   {
     "Name": "CHD-CNG-MJMALO-D1-PR-ARMB-DISP-MTRTOT",
-    "Current Sales": 270761.0,
+    "Current Sales": 270768.15625,
     "Yesterday Sales": 0,
-    "Today Sales": 270761.0,
+    "Today Sales": 270768.15625,
     "CleanName": "CHD-CNG-MJMALO",
     "Date": "2025-12-12",
     "Total Sales Sum": ""

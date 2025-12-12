@@ -4,15 +4,15 @@
     "Yesterday Sales": 199647.046875,
     "Current Sales": 199647.046875,
     "Today Sales": 0.0,
-    "Average Today": 0.0,
+    "Average Today": 5.484375,
     "Total Sales Sum": 344412.1875,
     "Date": "2025-12-12"
   },
   {
     "Name": "CHD-CNG-GPOINT-D1-PR-ARMB-DISP-MTRTOT",
     "Yesterday Sales": 144765.140625,
-    "Current Sales": 144765.140625,
-    "Today Sales": 0.0,
+    "Current Sales": 144770.625,
+    "Today Sales": 5.484375,
     "Average Today": "",
     "Total Sales Sum": "",
     "Date": "2025-12-12"
@@ -94,15 +94,15 @@
     "Yesterday Sales": 329758.21875,
     "Current Sales": 329759.875,
     "Today Sales": 1.65625,
-    "Average Today": 1.65625,
+    "Average Today": 7.1796875,
     "Total Sales Sum": 431790.34375,
     "Date": "2025-12-12"
   },
   {
     "Name": "CHD-CNG-VMKOTI-D1-PR-ARMB-DISP-MTRTOT",
     "Yesterday Sales": 102033.7265625,
-    "Current Sales": 102033.7265625,
-    "Today Sales": 0.0,
+    "Current Sales": 102039.25,
+    "Today Sales": 5.5234375,
     "Average Today": "",
     "Total Sales Sum": "",
     "Date": "2025-12-12"
